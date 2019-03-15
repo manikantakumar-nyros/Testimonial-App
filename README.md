@@ -12,7 +12,7 @@ Clone the repo and follow the below instructions to run the client.
 
 
 ```sh
-$ npm run serve
+$ npm run client
 $ npm install
 $ npm run serve
 ```
